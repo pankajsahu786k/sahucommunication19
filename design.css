@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: red;
+    background-color: red;
+}
+
+button:hover {
+    background-color: aqua;
+    text-decoration-color: blue;
+}
+
+button:active {
+    color: red;
+}
